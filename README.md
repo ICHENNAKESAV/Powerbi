@@ -26,7 +26,7 @@ You can also watch the **full tutorial** on YouTube here:
 ---
 
 ## 📂 Dataset
-- Dataset used for this project is included in the `data/` folder *(or provide the source link if publicly available)*.  
+- Dataset used for this project is included in the `Sales/` folder *(or provide the source link if publicly available)*.  
 - Contains columns like:  
   - `Order Date`  
   - `Product Category`  
