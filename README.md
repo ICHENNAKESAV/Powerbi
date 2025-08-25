@@ -38,8 +38,7 @@ You can also watch the **full tutorial** on YouTube here:
 ---
 
 ## 📷 Dashboard Preview
-*(Insert a screenshot or GIF of your dashboard here)*  
-Example:  
+
 ![Dashboard Screenshot](dashboard.png)  
 
 ---
