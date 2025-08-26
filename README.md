@@ -39,7 +39,7 @@ You can also watch the **full tutorial** on YouTube here:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()  
+![Dashboard Screenshot](dashboard.png)  
 
 ---
 
